@@ -1,0 +1,15 @@
+.left-image-reg {
+    background-image: url("../../assets/register.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 40%; /* Adjust as needed */
+    float: left;
+    min-height: 770px;
+  }
+  
+  .cardBackgroud-reg {
+    background: #5A189A;
+  color: #ffffff;
+  }
+  

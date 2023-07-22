@@ -1,0 +1,15 @@
+.left-image-adminlogin {
+    background-image: url("../../assets/adminlogin.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 40%; /* Adjust as needed */
+    float: left;
+    min-height: 450px;
+  }
+  
+  .cardBackgroud {
+    background: #5A189A;
+    color: #ffffff;
+  }
+  

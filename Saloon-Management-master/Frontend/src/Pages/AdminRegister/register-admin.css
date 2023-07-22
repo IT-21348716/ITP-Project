@@ -1,0 +1,19 @@
+.left-image-register-admin {
+  background-image: url("../../assets/registeradmin.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 40%; /* Adjust as needed */
+  float: left;
+  min-height: 450px;
+}
+
+.cardBackgroud {
+  background: rgb(207, 144, 169);
+  background: linear-gradient(
+    150deg,
+    rgba(207, 144, 169, 1) 0%,
+    rgba(254, 194, 218, 1) 74%,
+    rgba(254, 217, 232, 0.9360337885154062) 100%
+  );
+}

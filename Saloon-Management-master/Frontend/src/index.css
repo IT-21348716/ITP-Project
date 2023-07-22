@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.saloon-btn {
+  background-color: #E7D0FD;
+  color: black;
+}
+
+.table-saloon{
+  background-color: #E7D0FD;
+}
+
+.saloon-submit-btn {
+  background-color: #5A189A;
+  color: #ffffff;
+}

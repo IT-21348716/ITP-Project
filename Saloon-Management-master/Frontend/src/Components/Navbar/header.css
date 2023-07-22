@@ -1,0 +1,33 @@
+header {
+  background-color: #5A189A;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50%;
+  height: 100%;
+}
+
+nav li a {
+  color: white;
+  text-decoration: none;
+  padding: 0 20px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 3px solid transparent;
+  transition: border-bottom-color 0.2s ease-in-out;
+}
+
+nav li a:hover {
+  border-bottom-color: #f8a735;
+}
